@@ -1,6 +1,6 @@
 ## Hello There! 
 
-My name is Tom Erik William Ertvaag. 
+My name is Tom Erik William Ertvaag.  
 Welcome to my hub!
   
 I am a 27 year old Norwegian male currently reciding on the east coast of Spain while studying. This was not always the case though. Primarily I followed in  my family’s footsteps and became a sailor. After a few years as an officer, my longing for creativity and increased autonomy got the upperhand of me and I decided to "turn that ship around", so I quit. 
@@ -29,8 +29,8 @@ My exam project for the first year at Noroff Front-end Development. The assignme
 - blog specific page 
 - contact page
 
-Github Project & Description [https://github.com/WParsec/Project-Exam]
-Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)
+Github Project & Description [https://github.com/WParsec/Project-Exam]  
+Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)  
 
 #### If you liked any of this, don’t hesitate to contact me for a chat!
 
