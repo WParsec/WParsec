@@ -12,15 +12,25 @@ My love for visual creativity and aesthetic designs also makes assignments like 
 
 ## Projects
 
-### 3rd Semester Project - Auction Website
+### Semester Project 2 - Auction Website
 
-This is my semester project for 2nd year at Noroff Front-end development. We were given the task to create an auction website from start to finish with design and theme of own choice - over the course of 5 weeks. For market relevance, I decided to create an NFT auction website. Beware that other students have access to the same API, so although my site is an NFT site, items on the API are not necessarily NFT´s. 
+This is my semester project for 2nd year at Noroff Front-end Development. We were given the task to create an auction website from start to finish with design and theme of own choice - over the course of 5 weeks. For market relevance, I decided to create an NFT auction website. Beware that other students have access to the same API, so although my site is an NFT site, items on the API are not necessarily NFT´s. 
 
 *To view / test all features, create an account using a something@noroff.no email.*
 - Github Project & Detailed description [https://github.com/WParsec/Semester-Project-2]
 - Live site [https://wparsec.github.io/Semester-Project-2/]
 
 
+### Exam Project 1st Year - Blog page using Wordpress Rest API
+
+My exam project for the first year at Noroff Front-end Development. The assignment task was to design and develop a blog of a chosen topic, using Wordpress REST API. It had to contain the following:
+- homepage
+- a slider
+- blog specific page 
+- contact page
+
+Github Project & Description [https://github.com/WParsec/Project-Exam]
+Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)
 
 #### If you liked any of this, don’t hesitate to contact me for a chat!
 
