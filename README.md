@@ -32,6 +32,18 @@ My exam project for the first year at Noroff Front-end Development. The assignme
 Github Project & Description [https://github.com/WParsec/Project-Exam]   
 Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)  
 
+## Languages, Frameworks & Tools
+
+- HTML
+- CSS
+- Javascript
+- NPM
+- SASS
+- Tailwind CSS
+- Hotjar
+- Jest
+- Cypress
+
 #### If you liked any of this, don’t hesitate to contact me for a chat!
 
 - 📫 tomerikwilliam@hotmail.com
