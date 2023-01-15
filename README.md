@@ -43,6 +43,8 @@ Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)
 - Hotjar
 - Jest
 - Cypress
+- Express
+- postgreSQL
 
 #### If you liked any of this, don’t hesitate to contact me for a chat!
 
