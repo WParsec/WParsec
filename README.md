@@ -26,7 +26,7 @@ This is my semester project for 2nd year at Noroff Front-end Development. We wer
 Our first project of the 1st year, using HTML, CSS and JS and REST API to Wordpress. 
 This is my first ever launched website. Many functions are missing and code is far from professional, but it recieved exceptional feedback at the time.
 
-Github Link: [Gamehub Github](https://github.com/WParsec/Gamehub-REST-API)
+Github Link: [Gamehub Github](https://github.com/WParsec/Gamehub-REST-API)   
 Live site: [Gamehub](https://github.com/WParsec/Gamehub-REST-API)
 
 
