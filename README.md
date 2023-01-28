@@ -17,13 +17,16 @@ My love for visual creativity and aesthetic designs also makes assignments like 
 This is my semester project for 2nd year at Noroff Front-end Development. We were given the task to create an auction website from start to finish with design and theme of own choice - over the course of 5 weeks. For market relevance, I decided to create an NFT auction website. Beware that other students have access to the same API, so although my site is an NFT site, items on the API are not necessarily NFT´s. 
 
 *To view / test all features, create an account using a something@noroff.no email.*
-- Github Project & Detailed description [https://github.com/WParsec/Semester-Project-2]
-- Live site [https://wparsec.github.io/Semester-Project-2/]
+- Github Project & Detailed description [Github Link](https://github.com/WParsec/Semester-Project-2)
+- Live site [Gavelbay | Auction Website](https://wparsec.github.io/Semester-Project-2/)
 
 
 ### Cross Course Project 1st Year - Gaming Website using REST API 
 
+Our first project of the 1st year, using HTML, CSS and JS and REST API to Wordpress. 
+This is my first ever launched website. Many functions are missing and code is far from professional, but it recieved exceptional feedback at the time.
 
+Github Link: [Gamehub Github](https://github.com/WParsec/Gamehub-REST-API)
 Live site: [Gamehub](https://github.com/WParsec/Gamehub-REST-API)
 
 
@@ -35,8 +38,10 @@ My exam project for the first year at Noroff Front-end Development. The assignme
 - blog specific page 
 - contact page
 
-Github Project & Description [https://github.com/WParsec/Project-Exam]   
-Live site: [futuredawn.netlify.app](https://futuredawn.netlify.app/)  
+The project recieved the grade of B.
+
+Github Project & Description [Github Link](https://github.com/WParsec/Project-Exam)   
+Live site: [Future Dawn Blog](https://futuredawn.netlify.app/)  
 
 ## Languages, Frameworks & Tools
 
