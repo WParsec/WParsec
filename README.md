@@ -21,6 +21,12 @@ This is my semester project for 2nd year at Noroff Front-end Development. We wer
 - Live site [https://wparsec.github.io/Semester-Project-2/]
 
 
+### Cross Course Project 1st Year - Gaming Website using REST API 
+
+
+Live site: [Gamehub](https://github.com/WParsec/Gamehub-REST-API)
+
+
 ### Exam Project 1st Year - Blog page using Wordpress Rest API
 
 My exam project for the first year at Noroff Front-end Development. The assignment task was to design and develop a blog of a chosen topic, using Wordpress REST API. It had to contain the following:
