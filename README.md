@@ -16,6 +16,8 @@ My love for visual creativity and aesthetic designs also makes assignments like 
 
 This is my semester project for 2nd year at Noroff Front-end Development. We were given the task to create an auction website from start to finish with design and theme of own choice - over the course of 5 weeks. For market relevance, I decided to create an NFT auction website. Beware that other students have access to the same API, so although my site is an NFT site, items on the API are not necessarily NFT´s. 
 
+The project recieved good feedback and the grade A. 
+
 *To view / test all features, create an account using a something@noroff.no email.*
 - Github Project & Detailed description [Github Link](https://github.com/WParsec/Semester-Project-2)
 - Live site [Gavelbay | Auction Website](https://wparsec.github.io/Semester-Project-2/)
