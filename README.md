@@ -29,7 +29,7 @@ Our first project of the 1st year, using HTML, CSS and JS and REST API to Wordpr
 This is my first ever launched website. Many functions are missing and code is far from professional, but it recieved exceptional feedback at the time.
 
 Github Link: [Gamehub Github](https://github.com/WParsec/Gamehub-REST-API)   
-Live site: [Gamehub](https://github.com/WParsec/Gamehub-REST-API)
+Live site: [Gamehub](https://serene-wing-27b334.netlify.app/)
 
 
 ### Exam Project 1st Year - Blog page using Wordpress Rest API
