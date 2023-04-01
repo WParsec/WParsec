@@ -21,6 +21,17 @@ The project recieved good feedback and the grade A.
 - Github Project & Detailed description [Github Link](https://github.com/WParsec/Semester-Project-2)
 - Live site [Gavelbay | Auction Website](https://wparsec.github.io/Semester-Project-2/)
 
+![React eCom site image](https://raw.githubusercontent.com/Wparsec/React-eCom/main/reactEcom.png)
+
+### Javascript Frameworks Assignment - React eCommerce Website
+
+This is my delivery for an assignment in Javascript Frameworks module on second semester. We were tasked to create an eCommerce website using React. 
+
+The project have yet to be graded. 
+
+- Github Project & Detailed description [Github Link](https://github.com/WParsec/React-eCom)
+- Live site [Daily | React eCom Website](https://wparsec.github.io/React-eCom)
+
 
 ### Cross Course Project 1st Year - Gaming Website using REST API 
 
