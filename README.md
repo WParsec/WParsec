@@ -36,7 +36,7 @@ The project have yet to be graded.
 ### Cross Course Project 1st Year - Gaming Website using REST API 
 
 Our first project of the 1st year, using HTML, CSS and JS and REST API to Wordpress. 
-This is my first ever launched website. Many functions are missing and code is far from professional, but it recieved exceptional feedback at the time.
+This is my first ever launched website. Many functions are missing and code is far from professional, but it recieved exceptional feedback at the time.  
 Last time I checked, I had no longer access to the API, and thus this project is no longer operational. I do not intend to return to work more on it.
 
 Github Link: [Gamehub Github](https://github.com/WParsec/Gamehub-REST-API)   
@@ -51,7 +51,7 @@ My exam project for the first year at Noroff Front-end Development. The assignme
 - blog specific page 
 - contact page
 
-The project recieved the grade of B.
+The project recieved the grade of B.  
 Last time I checked, I had no longer access to the API, and thus this project is no longer operational. I do not intend to return to work more on it.
 
 Github Project & Description [Github Link](https://github.com/WParsec/Project-Exam)   
