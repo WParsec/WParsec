@@ -15,7 +15,7 @@ I started looking for challenging creative professions. From there I discovered 
 
 This is my semester project for 2nd year at Noroff Front-end Development. We were given the task to create an auction website from start to finish with design and theme of own choice - over the course of 5 weeks. For market relevance, I decided to create an NFT auction website. Beware that other students have access to the same API, so although my site is an NFT site, items on the API are not necessarily NFT´s. 
 
-The project recieved good feedback and the grade A. 
+The project recieved great feedback and the grade A. 
 
 *To view / test all features, create an account using a something@noroff.no email.*
 - Github Project & Detailed description [Github Link](https://github.com/WParsec/Semester-Project-2)
@@ -27,7 +27,7 @@ The project recieved good feedback and the grade A.
 
 This is my delivery for an assignment in Javascript Frameworks module on second semester. We were tasked to create an eCommerce website using React. 
 
-This was not a graded assignment, but the project recieved excellent feedback from tutors. 
+This was not a graded assignment, but the project recieved great feedback from tutors. 
 
 - Github Project & Detailed description [Github Link](https://github.com/WParsec/React-eCom)
 - Live site [Daily | React eCom Website](https://wparsec.github.io/React-eCom)
