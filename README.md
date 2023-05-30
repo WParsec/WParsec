@@ -3,7 +3,7 @@
 My name is Tom Erik William Ertvaag.  
 Welcome to my hub!
   
-I am a 27 year old Norwegian male currently residing on the east coast of Spain while studying. This was not always the case though. Primarily I followed in my family’s footsteps and became a sailor. After a few adventurous years as an officer, my longing for creativity and increased autonomy got the upper-hand of me and I decided to "turn that ship around", so I quit.
+I am a 27 year old Norwegian man currently residing on the east coast of Spain while studying. This was not always the case though. Primarily I followed in my family’s footsteps and became a sailor. After a few adventurous years as an officer, my longing for creativity and increased autonomy got the upper-hand of me and I decided to "turn that ship around", so I quit.
 
 I started looking for challenging creative professions. From there I discovered Frontend Development, where creativity meets logic. I loved it from the start. Currently I’m on the final semester of a 2 year study. I find every aspect of it very stimulating, and I can’t wait to develop my skills even further!  
 
@@ -27,13 +27,24 @@ The project recieved good feedback and the grade A.
 
 This is my delivery for an assignment in Javascript Frameworks module on second semester. We were tasked to create an eCommerce website using React. 
 
-The project have yet to be graded. 
+This was not a graded assignment, but the project recieved excellent feedback from tutors. 
 
 - Github Project & Detailed description [Github Link](https://github.com/WParsec/React-eCom)
 - Live site [Daily | React eCom Website](https://wparsec.github.io/React-eCom)
 
+### Project Exam 2
 
-## Languages, Frameworks & Tools
+![Exam Project 2 image](https://raw.githubusercontent.com/Wparsec/holidayz-exam-project/main/Holidayz-screenshot.png)
+
+This project is the final exam for a 2-year Front-end Study at Noroff School of Technology and Digital Media. Our task was to design and create a venue booking website. The application consists of two parts: a customer-facing side where users can book holidays at a venue, and an admin-facing side where users can register and manage venues and bookings at those venues. The site fulfils the requested user stories provided in our assignment brief, but naturally lacks many functionalities a real site would have. 
+
+The assignment is yet to be graded.  
+
+- Github Project and Detailed description [Github Link](https://github.com/WParsec/holidayz-exam-project)
+- Live site [Holidayz](https://cerulean-melba-ba6cf3.netlify.app/)
+
+
+## Languages, Frameworks & Tools I am familiar with
 
 - HTML, CSS, Javascript
 - React, Redux
