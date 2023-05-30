@@ -32,9 +32,10 @@ This was not a graded assignment, but the project recieved excellent feedback fr
 - Github Project & Detailed description [Github Link](https://github.com/WParsec/React-eCom)
 - Live site [Daily | React eCom Website](https://wparsec.github.io/React-eCom)
 
-### Project Exam 2
 
 ![Exam Project 2 image](https://raw.githubusercontent.com/Wparsec/holidayz-exam-project/main/Holidayz-screenshot.png)
+
+### Project Exam 2
 
 This project is the final exam for a 2-year Front-end Study at Noroff School of Technology and Digital Media. Our task was to design and create a venue booking website. The application consists of two parts: a customer-facing side where users can book holidays at a venue, and an admin-facing side where users can register and manage venues and bookings at those venues. The site fulfils the requested user stories provided in our assignment brief, but naturally lacks many functionalities a real site would have. 
 
