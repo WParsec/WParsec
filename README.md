@@ -7,6 +7,8 @@ I am a 27 year old Norwegian man currently residing on the east coast of Spain w
 
 I started looking for challenging creative professions. From there I discovered Frontend Development, where creativity meets logic. I loved it from the start. Currently I’m on the final semester of a 2 year study. I find every aspect of it very stimulating, and I can’t wait to develop my skills even further!  
 
+https://tomertvaag.com/
+
 ## Projects
 
 ![Auction site image](https://raw.githubusercontent.com/Wparsec/Semester-Project-2/main/gavelbay.png)
