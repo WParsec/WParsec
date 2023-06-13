@@ -39,7 +39,7 @@ This was not a graded assignment, but the project recieved great feedback from t
 
 This project is the final exam for a 2-year Front-end Study at Noroff School of Technology and Digital Media. Our task was to design and create a venue booking website. The application consists of two parts: a customer-facing side where users can book holidays at a venue, and an admin-facing side where users can register and manage venues and bookings at those venues. The site fulfils the requested user stories provided in our assignment brief, but naturally lacks many functionalities a real site would have. 
 
-The assignment was given an A grade and exceptional feedback. 
+The assignment was given an A grade and great feedback. 
 
 - Github Project and Detailed description [Github Link](https://github.com/WParsec/holidayz-exam-project)
 - Live site [Holidayz](https://cerulean-melba-ba6cf3.netlify.app/)
