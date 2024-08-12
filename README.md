@@ -46,7 +46,10 @@ The assignment was given an A grade and great feedback.
 ## Languages, Frameworks & Tools I am familiar with
 
 - HTML, CSS, Javascript
+- Next.js
+- Typescript
 - React, Redux
+- React Native
 - Tailwind CSS, SASS
 - Firebase
 - Hotjar
