@@ -3,8 +3,6 @@
 My name is Tom Erik William Ertvaag.  
 Welcome to my hub!
 
-https://tomertvaag.com/
-
 ## Projects
 
 ![Auction site image](https://raw.githubusercontent.com/Wparsec/Semester-Project-2/main/gavelbay.png)
